@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <title>St. Peters University, Achina</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand" href="#"><img src="img/logo-removebg-preview.png" alt="St. Peters' logo"></a>
+            
+           <div class="dropdown">
+                <button>
+                    <img src="img/user.jpg" alt="User's profile image">
+                    Remi Mmadu
+                    <i class="bi-caret-down-fill"></i>
+                </button>
+                <div class="dropdown-content">
+                    <a href="https://blog.hubspot.com/">Account</a>
+                    <a href="https://academy.hubspot.com/">Profile</a>
+                    <a href="https://www.youtube.com/user/hubspot">Logout</a>
+                </div>
+            </div>
+        </nav>
+        <div class="nav-2">
+            <button class="my-dash">My Dashboard</button>
+            <button>Fees</button>
+            <button>Results</button>
+            <button>LMS</button>
+            <button>COURSE REGISTRATION</button>
+        </div>
+        <div class="student">
+            <h3 class="dash">Course Registeration</h3>
+            <button class="btn btn-success">My Registered Courses</button>
+        </div>
+        
+        <div class="form-wrapper py-4">
+            <div class="pb-2 bg-white rounded px-3 px-lg-5 px-md-5">
+                <!-- <div class="logo d-flex justify-content-end align-content-center pb-5">
+                    <img src="of_Backup_of_web logo (1).jpg" width="150px" alt="pesowp-logo">
+                </div>
+                <div class="header text-start mb-4">
+                    <h3>PESOWP</h3>
+                </div> -->
+                <div class="form-area pt-5">
+
+                    <form action="" class="form-inline">
+                        <div class="row">
+                            
+                            <div class="col-lg-6 col-md-6 text-start py-2 px-lg-2 px-md-2">
+                                <label class="sr-only" for="session">Session</label>
+                                <div class="input-group mb-2 mr-sm-2">
+                                    <div class="input-group-prepend rounded-end-0">
+                                        <div class="input-group-text"><i class="bi-calendar"></i></div>
+                                    </div>
+                                    <select class="form-select" id="session">
+                                        <option value="option3">2021/2022 Session</option>
+                                        <option value="option2">2022/2023 Session</option>
+                                        <option value="option1">2023/2024 Session</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="col-lg-6 col-md-6 text-start py-2 px-lg-2 px-md-2">
+                                <label class="sr-only" for="semester">Semester</label>
+                                <div class="input-group mb-2 mr-sm-2">
+                                    <div class="input-group-prepend rounded-end-0">
+                                        <div class="input-group-text"><i class="bi-calendar-fill"></i></div>
+                                    </div>
+                                    <select class="form-select" id="semester">
+                                        <option value="option1">1st Semester</option>
+                                        <option value="option2">2nd Semester</option>
+                                        <option value="option3">3rd Semester</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="col-lg-6 col-md-6 text-start py-2 px-lg-2 px-md-2">
+                                <label class="sr-only" for="selectCurrency">Course</label>
+                                <div class="input-group mb-2 mr-sm-2">
+                                    <div class="input-group-prepend rounded-end-0">
+                                        <div class="input-group-text"><i class="bi-book"></i></div>
+                                    </div>
+                                    <select class="form-select" id="selectCurrency">
+                                        <option value="option1">Arts</option>
+                                        <option value="option2">`Sciences</option>
+                                        <option value="option3">Arts & Science</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="col-lg-6 col-md-6 text-start py-lg-2 py-md-2 py-sm-2 px-lg-3 px-md-3">
+                                <label class="sr-only" for="amount">Amount</label>
+                                <div class="input-group mb-2 mr-sm-2">
+                                    <div class="input-group-prepend rounded-end-0">
+                                        <div class="input-group-text"><i class="bi-cash-stack"></i></div>
+                                    </div>
+                                    <input type="text" class="form-control" name="amount"  id="amount" placeholder="Enter your amount">
+                                </div>
+                            </div>
+
+                            <div class="col-12 text-start py-2 px-lg-2 px-md-2">
+                                <label for="description">Description</label>
+                                <textarea name="description" class="form-control" id="description" cols="30" rows="4"></textarea>
+                            </div>
+
+                        </div>
+
+                        <div class="text-start py-4">
+                            <button class="btn btn-success py-2 px-5">Continue <i class="bi-arrow-right"></i></button>
+                        </div>
+                    </form>
+                </div>
+            </div>    
+        </div>
+    </main>
+</body>
+</html>

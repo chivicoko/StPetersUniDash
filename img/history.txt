@@ -1,0 +1,398 @@
+    1  /Volumes/build/install_MSDisplay ; exit;
+    2  ipconfig
+    3  ipconfig
+    4  ifconfig
+    5  clear
+    6  ifconfig
+    7  clear
+    8  /sbin/ifconfig
+    9  /Applications/XAMPP/xamppfiles/share/xampp-control-panel/xampp-control-panel ; exit;
+   10  /Applications/XAMPP/xamppfiles/xampp ; exit;
+   11  clear
+   12  httrack
+   13  httrack
+   14  ls
+   15  Desktop
+   16  cd Desktop
+   17  pwd
+   18  httrack
+   19  clear
+   20  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+   21  sudo mv composer.phar /usr/local/bin/composer
+   22  sudo mv composer.phar /usr/local/bin/composer
+   23  sudo mv composer.phar /usr/local/bin/composer
+   24  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   25  brew install php
+   26  brew install composer
+   27  /Volumes/GRAPHICS/Model_Nimo/v ; exit;
+   28  ls
+   29  cd destop
+   30  cd desktop
+   31  ls
+   32  pwd
+   33  httrack
+   34  httrack
+   35  xcode-select --install
+   36  make clean
+   37  pwd
+   38  brew install php
+   39  php -v
+   40  brew update
+   41  brew upgrade php
+   42  brew upgrade php
+   43  brew install php
+   44  php -v
+   45  brew upgrade php
+   46  brew cleanup --prune-prefix
+   47  brew update
+   48  brew update
+   49  php -v
+   50  brew upgrade php
+   51  ls
+   52  php -v
+   53  /usr/bin/php
+   54  ls
+   55  cd desktop
+   56  ls
+   57  cd nolum
+   58  ls
+   59  cd g
+   60  ls
+   61  cd G
+   62  cd template
+   63  cd ..
+   64  cd g
+   65  ls
+   66  cd gee
+   67  cd ..
+   68  ls
+   69  cd nolum
+   70  ls
+   71  cd raw
+   72  cd template
+   73  ls
+   74  cd raw
+   75  ls
+   76  cd noname
+   77  ls
+   78  cd investment
+   79  ls
+   80  cd invest_sample
+   81  ls
+   82  git add .
+   83  git commit -m 'cv'
+   84  git push
+   85  httrack
+   86  httrack
+   87  httrack
+   88  httrack
+   89  httrack
+   90  httrack
+   91  httrack
+   92  httrack
+   93  httrack
+   94  htttrack
+   95  httrack
+   96  httrack
+   97  pwd
+   98  ls
+   99  cd desktop
+  100  ls
+  101  cd dominican_sister
+  102  ls
+  103  code .
+  104  code.
+  105  . code
+  106  php artisan serve
+  107  pwd
+  108  ls
+  109  cd desktop
+  110  pwd
+  111  cd ../../..
+  112  pwd
+  113  ls
+  114  cd ..
+  115  pwd
+  116  ls
+  117  cd Documents/
+  118  ls
+  119  cd vc
+  120  ls
+  121  cd templates
+  122  ls
+  123  cd staugustines/
+  124  ls
+  125  ls validthemes.live/
+  126  ls validthemes.live/themeforest/
+  127  ls validthemes.live/themeforest/examin/
+  128  cat index.html 
+  129  history
+  130  ls
+  131  cd validthemes.live/
+  132  ls
+  133  cd ..
+  134  ls
+  135  ls hts-cache/
+  136  mv hts-cache/Ichida\ edited/ validthemes.live/Ichida edited
+  137  ls
+  138  ls hts-cache/
+  139  ls
+  140  mv Ichida\ edited/ validthemes.live/Ichida-edited
+  141  ls
+  142  cd validthemes.live/
+  143  ls
+  144  mv Ichida-edited/ themeforest/ichida-edited
+  145  ls
+  146  cd themeforest/
+  147  ls
+  148  mv ichida-edited/ examin/ichida-edited
+  149  ls
+  150  cd examin/
+  151  ls
+  152  mv ichida-edited/ assets/ichida-edited
+  153  ls
+  154  ls assets/ichida-edited/
+  155  mv assets/ichida-edited/ assets/img/ichida-edited
+  156  ls assets/img/ichida-edited
+  157  mv assets/img/ichida-edited assets/img/staugust/ichida-edited
+  158  ls assets/img/staugust/ichida-edited
+  159  ls
+  160  ls assets/img/staugust/cropped/
+  161  pwd
+  162  ls
+  163  cp assets/ ../../../st\ augustine
+  164  cp assets/ ../../../st\ augustine/assets
+  165  ls assets/
+  166  ls assets/img/
+  167  pwd
+  168  pwd
+  169  cd ../../../..
+  170  pwd
+  171  cd staugustines
+  172  ls ../
+  173  ls
+  174  ls validthemes.live/
+  175  ls validthemes.live/themeforest/examin/
+  176  ls validthemes.live/themeforest/examin/assets/img/staugust/
+  177  mv validthemes.live/themeforest/examin/assets/img/staugust/ ../staugustines-2/
+  178  cd ..
+  179  cd staugustines-2/
+  180  ls
+  181  ls edumate-v1/
+  182  ls edumate-v1/edumate/
+  183  ls edumate-v1/edumate/assets/
+  184  ls edumate-v1/edumate/assets/images
+  185  mv staugust/ edumate-v1/edumate/assets/images
+  186  ls
+  187  ls staugust/ edumate-v1/edumate/assets/images
+  188  ls staugust/ edumate-v1/edumate/assets/images/staugust/
+  189  ls staugust/ edumate-v1/edumate/assets/images/staugust/cropped/
+  190  pwd
+  191  cd ../..
+  192  pwd
+  193  git clone https://github.com/chivicoko/oll-nursing.git
+  194  pwd
+  195  ls
+  196  code oll-nursing/
+  197  cd oll-nursing/
+  198  code .
+  199  cd ..
+  200  npm -g install js-beautify
+  201  cd ..
+  202  pwd
+  203  cd ..
+  204  pwd
+  205  npm -g install js-beautify
+  206  npm -g install js-beautify
+  207  pwd
+  208  ls
+  209  cd ..
+  210  ls
+  211  ls Shared/
+  212  ls Shared/adi/
+  213  cd ..
+  214  ls
+  215  cd usr
+  216  ls
+  217  cd lib
+  218  ls
+  219  pwd
+  220  cd ../..
+  221  ls
+  222  pwd
+  223  cd Users/
+  224  ls
+  225  cd apple/
+  226  pwd
+  227  ls
+  228  ls Nolum/
+  229  pwd
+  230  npm -g install js-beautify
+  231  npm --location=global install js-beautify
+  232  cd ..
+  233  pwd
+  234  cd apple/
+  235  pwd
+  236  sudo npm -g install js-beautify
+  237  sudo npm --location=global install js-beautify
+  238  npm audit fix --force
+  239  sudo npm --location=global install js-beautify
+  240  pwd
+  241  ls
+  242  cd Documents/
+  243  ls
+  244  cd vc
+  245  ls
+  246  cd templates
+  247  ls
+  248  cd staugustines-2/
+  249  s
+  250  ls
+  251  cd edumate-v1/
+  252  ls
+  253  cd edumate/
+  254  ls
+  255  cd assets/
+  256  ls
+  257  ls css/
+  258  js-beautify --type css --file css/style.min.copy.css
+  259  cd css/
+  260  js-beautify --type css --file style.min.copy.css
+  261  cd ../../../..
+  262  pwd
+  263  cd ../../..
+  264  pwd
+  265  ls
+  266  js-beautify --type css --file style.min.copy.css
+  267  js-beautify -h
+  268  js-beautify --type css -f style.min.copy.css
+  269  js-beautify --type css -f style.min.copy.css
+  270  git config --global user.name "chivicoko"
+  271  git config --global user.email "victor.c.okoye@gmail.com"
+  272  git
+  273  ls
+  274  cd vc/
+  275  ls
+  276  cd oll-pageantry/
+  277  ls
+  278  git init
+  279  git status
+  280  git add .
+  281  git status
+  282  git commit -m "Initial commit"
+  283  git status
+  284  git push origin master
+  285  git push
+  286  cd ..
+  287  pwd
+  288  npx create-react-app rct-app
+  289  ls
+  290  nvm install 16
+  291  npm install create-react-app --location=global
+  292  npx create-react-app rct-app
+  293  npx create-react-app rct-app
+  294  ls
+  295  cd rct-app/
+  296  code .
+  297  cd ..
+  298  pwd
+  299  ls
+  300  cd Documents/
+  301  ls
+  302  cd vc/
+  303  ls
+  304  mkdir p1 && cd p1
+  305  pwd
+  306  git clone https://github.com/chivicoko/1ultrex.git
+  307  ls
+  308  ls 1ultrex/
+  309  cd 1ultrex/
+  310  npm run client
+  311  npm i
+  312  ls
+  313  npm run client
+  314  rm -rf package-lock.json 
+  315  ls
+  316  npm i
+  317  npm run client
+  318  npm i react-scripts
+  319  npm run client
+  320  npm run client
+  321  ls client
+  322  cat client/package.json 
+  323  npm i axios @reduxjs/toolkit cra-template-redux i18next i18next-http-backend react react-dom react-feather react-i18next react-icons react-player react-redux react-router-dom react-scripts react-toastify styled-components
+  324  cat package.json 
+  325  cd client/
+  326  npm i axios @reduxjs/toolkit cra-template-redux i18next i18next-http-backend react react-dom react-feather react-i18next react-icons react-player react-redux react-router-dom react-scripts react-toastify styled-components
+  327  cd ..
+  328  ls
+  329  npm i axios bcrypts colors cors dotenv express express-async-handler jsonwebtoken mongoose nodemailer react-scripts
+  330  npm i axios bcrypts colors cors dotenv express express-async-handler jsonwebtoken mongoose nodemailer react-scripts
+  331  node --version
+  332  npm --version
+  333  pwd
+  334  ls
+  335  cat package.json 
+  336  npm run client
+  337  pwd
+  338  pwd
+  339  cd ..
+  340  ls
+  341  git clone https://github.com/chivicoko/1ultrex.git
+  342  ls
+  343  ls 1ultrex/
+  344  rm -rf 1ultrex/package-lock.json 
+  345  ls 1ultrex/
+  346  history
+  347  npm i react-scripts
+  348  history > history.txt
+
+
+
+
+
+    <!-- banner start -->
+    <div class="rts-banner-main-area-swiper banner-two">
+        <div class="banner-shape-1">
+            <img src="assets/images/fjt-images/hero-9.jpg" alt="shape">
+        </div>
+        <div class="banner-shape-2">
+            <img src="assets/images//fjt-images/banner-2.jpg" alt="shape">
+        </div>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7 col-md-7 first">
+                    <div class="banner-one-wrapper ptb--50">
+                        <span class="b_one-pre" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">
+                            A taste of different flavors, cultures and creativity in one place.
+                        </span>
+                        <div class="banner-shape-area" data-sal="slide-up" data-sal-delay="500" data-sal-duration="800">
+                            <span class="shape"></span>
+                            <span class="shape"></span>
+                            <span class="shape"></span>
+                        </div>
+                        <h1 class="title-bann text-white">
+                            <!-- <span class="welcome">Welcome to <img src="assets/images/flavour junction 2.png" alt="flavor junction title"></span> -->
+                            <span class="welcome">Welcome to <img src="assets/images/flavorjunction-title-removebg-preview.png" alt="flavor junction title"></span>
+                            <!-- <em class="text-danger">Where flavors meet...</em> -->
+                            <br>
+                             <span class="h3" style="font-family: cursive; color: orange;">Where flavors meet . . .</span>
+                        </h1>
+                        <div class="button-area-banner">
+                            <a href="about.html" class="rts-btn btn-primary">View More</a>
+                            <a href="food-menu.html" class="rts-btn btn-seconday">Food Menu</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-5">
+                    <div class="hero-section-area">
+                        <img class="main-img" src="assets/images/fj-img/6751.jpg" style="border-radius: 50%;" alt="hero-image">
+                        <span class="shape-1"></span>
+                        <span class="shape-2"></span>
+                        <span class="shape-3"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- banner end -->
